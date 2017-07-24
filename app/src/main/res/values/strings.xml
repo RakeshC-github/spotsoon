@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SpotSoonTest</string>
+    <string name="openDrawer">openDrawer</string>
+    <string name="closeDrawer">closeDrawer</string>
+    <string name="action_settings">Settings</string>
+</resources>
